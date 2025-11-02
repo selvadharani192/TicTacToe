@@ -58,7 +58,7 @@ function endGame(winner){
     document.getElementById("message").textContent="Player "+player + " is the winner 🏅";
   }
         }, 50);
-                        
+    gameOngoing=false;                    
 }
 
 
