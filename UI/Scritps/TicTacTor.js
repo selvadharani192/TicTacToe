@@ -1,4 +1,4 @@
-player = 'X';
+let player = 'X';
 
 let rows = 3;
 let cols = 3;
